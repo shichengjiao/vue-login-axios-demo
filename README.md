@@ -11,7 +11,7 @@
 **准备**
 
 你需要先生成自己的 Github Personal Token（[生成Token](https://github.com/settings/tokens/new)）。
-Token 生成后 访问 [Demo]，即可查看你的Repository List。
+Token 生成后访问Demo，即可查看你的Repository List。
 
 ## 项目结构
 
